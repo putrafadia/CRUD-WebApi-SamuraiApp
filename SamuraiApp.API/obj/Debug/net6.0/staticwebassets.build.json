@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rUzIc7kj/DoBvumuCuBxhBsA6UtxzWK2wHKHdAjWdOE=",
+  "Source": "SamuraiApp.API",
+  "BasePath": "_content/SamuraiApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

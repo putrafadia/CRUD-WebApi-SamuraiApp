@@ -1,0 +1,14 @@
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\bin\Debug\net6.0\SamuraiApp.Domain.deps.json
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\bin\Debug\net6.0\SamuraiApp.Domain.dll
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\bin\Debug\net6.0\SamuraiApp.Domain.pdb
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\SamuraiApp.Domain.csproj.AssemblyReference.cache
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\SamuraiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\SamuraiApp.Domain.AssemblyInfo.cs
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\SamuraiApp.Domain.dll
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\refint\SamuraiApp.Domain.dll
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\SamuraiApp.Domain.pdb
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\ref\SamuraiApp.Domain.dll
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\bin\Debug\net6.0\SamuraiApp.Domain.runtimeconfig.json
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Domain\obj\Debug\net6.0\SamuraiApp.Domain.genruntimeconfig.cache

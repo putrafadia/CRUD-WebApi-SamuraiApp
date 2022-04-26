@@ -1,0 +1,17 @@
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.deps.json
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.dll
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.pdb
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Domain.dll
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Domain.pdb
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.csproj.AssemblyReference.cache
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.AssemblyInfoInputs.cache
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.AssemblyInfo.cs
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.csproj.CopyComplete
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.dll
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\refint\SamuraiApp.Data.dll
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.pdb
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\ref\SamuraiApp.Data.dll
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.runtimeconfig.json
+E:\belajar\.Net\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.genruntimeconfig.cache
